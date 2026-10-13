@@ -1,0 +1,55 @@
+Raha's Personal Mini-Toolkit Plan
+
+1. Tools
+
+Simple Calculator:
+The calculator adds two numbers and displays the result.
+
+To-Do List:
+The To-Do List lets the user add tasks to a list that changes while the program runs.
+
+Even Number Checker:
+The Even Number Checker checks a number and tells the user whether it is even or odd.
+
+2. Menu Text
+
+Please choose a tool:
+
+1. Simple Calculator
+
+2. To-Do List
+
+3. Even Number Checker
+
+4. Quit
+
+5. Concepts Used
+
+Simple Calculator:
+
+* Variables
+* User input
+* Float numbers
+* Addition
+* F-strings
+
+To-Do List:
+
+* Lists
+* User input
+* List append
+* F-strings
+
+Even Number Checker:
+
+* User input
+* Conditionals
+* Modulo operator
+* F-strings
+
+Main Menu:
+
+* While loop
+* If / elif / else
+* User input
+* Friendly output
